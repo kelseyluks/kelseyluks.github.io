@@ -17,6 +17,8 @@ p, ul{
 }
 ul{
 	list-style: none;
+	clear: left;
+    padding: 0;
 }
 span{
 	color: red;
