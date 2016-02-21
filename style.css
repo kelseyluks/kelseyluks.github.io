@@ -1,0 +1,35 @@
+
+
+h1{
+	color: green;
+	font-family: Impact, Charcoal, sans-serif;
+}
+h2{
+	color: purple;
+	font-family: Impact, Charcoal, sans-serif;
+}
+img{
+	border: 10px solid #EB54A0;
+	border-radius: 50%;
+}
+p, ul{
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+ul{
+	list-style: none;
+}
+span{
+	color: red;
+}
+div{
+	width:40%;
+	padding:0;
+	margin:0 auto;
+	background: rgba(187, 135, 82, 0.75);
+	border-radius: 25%;
+	border: 12px solid #38B0D1;
+}
+body{
+	text-align: center;
+	background: url("https://s-media-cache-ak0.pinimg.com/564x/92/8e/ef/928eef9a6540e6a5a28f651e69260826.jpg")
+}
