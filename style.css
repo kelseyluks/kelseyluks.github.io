@@ -1,12 +1,14 @@
 
 
 h1{
-	color: green;
+	color:#EB54A0 ;
 	font-family: Impact, Charcoal, sans-serif;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 h2{
-	color: purple;
+	color: black;
 	font-family: Impact, Charcoal, sans-serif;
+	text-shadow: -1px 0 #EB54A0, 0 1px #EB54A0, 1px 0 #EB54A0, 0 -1px #EB54A0;
 }
 img{
 	border: 10px solid #EB54A0;
@@ -19,19 +21,27 @@ ul{
 	list-style: none;
 	clear: left;
     padding: 0;
+    font-weight: bold;
 }
 span{
-	color: red;
+	font-weight: bolder;
+	font-family:Impact, Charcoal, sans-serif;
 }
 div{
 	width:40%;
 	padding:0;
 	margin:0 auto;
-	background: rgba(187, 135, 82, 0.75);
+	background: rgba(56, 176, 209, 0.5);
 	border-radius: 25%;
 	border: 12px solid #38B0D1;
 }
 body{
 	text-align: center;
-	background: url("https://s-media-cache-ak0.pinimg.com/564x/92/8e/ef/928eef9a6540e6a5a28f651e69260826.jpg")
+	background: url("https://tctechcrunch2011.files.wordpress.com/2015/01/goldglitter.jpg")
+}
+p,h3{
+	font-weight: bold;
+}
+h3{
+	font-family:Impact, Charcoal, sans-serif;
 }
