@@ -1,16 +1,19 @@
 body{
 	text-align: center;
-	background: rgb(98, 243, 243);
+	background: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxIJcnMZlAPNICkKTdOJeRi6oym4ZxMmGQtWsVfmam6IZO8Xws");
 }
 h1, h2{
-	color: black;
+	color: white;
 	font-family: Impact, Charcoal, sans-serif;
-	border-bottom: 5px solid black;
+	border-bottom: 5px solid white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 ul{
 	list-style: none;
 	clear: left;
     padding: 0;
+    background: rgba(255, 255, 255, 0.75);
+    border-radius: 25%;
 }
 #div1{
 	width:35%;
